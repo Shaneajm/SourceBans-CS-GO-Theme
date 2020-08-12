@@ -35,7 +35,7 @@ header('Content-type: text/css');
 }
 
 body { 
-	background: url(http://media.steampowered.com/apps/csgo/blog/images/vanguard_bg.jpg?v=1002) top center no-repeat #010713;
+	background: url(https://i.imgur.com/zQCJgbH.jpg) top center no-repeat #010713;
 	background-position: 50% -39px;
 	color: #999b9d;
 	font-family: Verdana, Arial, Tahoma, Trebuchet MS, Sans-Serif, Georgia, Courier, Times New Roman, Serif;
@@ -252,7 +252,7 @@ div.dialog-control{
 
 #innerwrapper {
 	text-align: left; /* re_aligns text to left, second part of two part MSIE centering workaround */
-    background: url(http://media.steampowered.com/apps/csgo/blog/images/contentBkndTexture.jpg) repeat-y;
+    background: url(https://i.imgur.com/d3VH69d.jpg) repeat-y;
     padding: 0 15px 20px 15px;
     border-bottom: 3px solid #3d4959;
 }
@@ -305,7 +305,7 @@ div.dialog-control{
 /** ================ Tabs ================ **/
 
 #tabs {
-  background: url(http://media.steampowered.com/apps/csgo/blog/images/nav_bar_dark.jpg);
+  background: url(https://i.imgur.com/yihUxWD.jpg);
   float: left;
   width: 100%;
   margin-left: 0;
